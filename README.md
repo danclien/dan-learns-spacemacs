@@ -11,13 +11,16 @@ Nothing yet
 
 ## To Learn
 
-* Change the font and font size
-* Copy and paste from clipboard
+* Figure out what `helm` is
 * How to set up a project folder and navigate quickly between files
   * Ignoring files listed in `.gitignore`
 
 
 ## Learned
+
+### Help
+
+* `SPC ?`
 
 ### How to Exit
 
@@ -27,3 +30,18 @@ Same as Vim. `:q`
 
 Save as Vim. `:w`
 
+### Open file
+
+`SPC f F`: Opens up Helm find files
+
+### Change the font and font size
+
+`Alt-x` `ns-popup-font-panel`
+Brings up the font panel. Still need to figure out how using dotfiles.
+
+### Copy and paste from clipboard
+
+Same as vim.
+
+* `y`: Yank/copy
+* `p`: Paste
