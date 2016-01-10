@@ -19,7 +19,7 @@ Nothing yet
   * Ignoring files listed in `.gitignore`
 
 
-## Learned
+## Learned (common)
 
 ### Help
 
@@ -58,6 +58,14 @@ Same as vim.
 * `y`: Yank/copy
 * `p`: Paste
 
+### Visual select
+
+* `v`: Start visual select
+* `V`: Start visual select by lines
+
+
+## Learned (specialized)
+
 ### Make character upper/lowercase
 
 Same as Vim.
@@ -66,3 +74,4 @@ Same as Vim.
 * Visual select
   * `U`: Uppercase
   * `u`: Lowercase
+
