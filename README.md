@@ -11,6 +11,9 @@ Nothing yet
 
 ## To Learn
 
+* Find in file
+* Go to line number
+* Block editing
 * Figure out what `helm` is
 * How to set up a project folder and navigate quickly between files
   * Ignoring files listed in `.gitignore`
