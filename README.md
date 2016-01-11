@@ -49,5 +49,15 @@ Brings up the font panel. Still need to figure out how using dotfiles.
 
 Same as vim.
 
+* `d`: Delete/cut
 * `y`: Yank/copy
 * `p`: Paste
+
+### Make character upper/lowercase
+
+Same as Vim.
+
+* `~`: Toggle case under cursor
+* Visual select
+  * `U`: Uppercase
+  * `u`: Lowercase
