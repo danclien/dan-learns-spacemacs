@@ -26,11 +26,15 @@ Nothing yet
 
 ### How to Exit
 
-Same as Vim. `:q`
+`SPC q q`
+
+(via [@igas](https://github.com/igas))
 
 ### How to Save
 
-Save as Vim. `:w`
+`SPC f s`
+
+(via [@igas](https://github.com/igas))
 
 ### Open file
 
