@@ -38,7 +38,7 @@ Nothing yet
 
 ### Open file
 
-`SPC f F`: Opens up Helm find files
+`spc f f`: opens up helm find files
 
 ### Change the font and font size
 
