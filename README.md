@@ -22,6 +22,8 @@ Nothing yet
 
 * `SPC ?`
 
+(via [@bretthoerner](https://twitter.com/bretthoerner))
+
 ### How to Exit
 
 Same as Vim. `:q`
