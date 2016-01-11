@@ -42,8 +42,10 @@ Nothing yet
 
 ### Change the font and font size
 
-`Alt-x` `ns-popup-font-panel`
-Brings up the font panel. Still need to figure out how using dotfiles.
+* Edit `~/.spacemacs`
+  * Update `dotspacemacs-default-font` under `dotspacemacs/init`
+  
+(via [@SeanTAllen](https://twitter.com/SeanTAllen))
 
 ### Copy and paste from clipboard
 
