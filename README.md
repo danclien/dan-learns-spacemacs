@@ -62,7 +62,7 @@ Same as vim.
 
 * `v`: Start visual select
 * `V`: Start visual select by lines
-
+* `Ctrl+v`: Start visual select by block
 
 ## Learned (specialized)
 
